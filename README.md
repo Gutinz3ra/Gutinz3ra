@@ -1,5 +1,5 @@
 ## 👋 Oi, meu nome é Augusto Zemor mais conhecido como Gutinz3ra
-## 📚Atualmente aprendendo HTML5, CSS e JavaScript...
+## 📚Atualmente aprendendo Kotlin e Android Studio...
 ## ⚡"Um verdadeiro mestre, é um eterno aprendiz..."⚡
 
 <div align="center">
@@ -9,7 +9,7 @@
   <img align="center" alt="gutin-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="gutin-Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="gutin-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="gutin-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gutin-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
   ##
