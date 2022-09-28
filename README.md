@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Gutinz3ra" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dark&hide_border=false&username=Gutinz3ra" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=GUTINZ3RA" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dark&hide_border=false&username=GUTINZ3RA" height="190" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gutinz3ra/Gutinz3ra/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GUTINZ3RA/GUTINZ3RA/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
