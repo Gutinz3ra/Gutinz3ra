@@ -6,7 +6,7 @@ Hi there, thanks for stopping by, this is **Gutinz3ra**.
 data class gutinzera(
      val pronouns: String = "he|him",
      val askMeAbout: List<String> = listOf(
-       "Kotlin", "Java"
+       "Kotlin", "Java" "Android Studio", "SDK"
      )
      val toLearn: () -> Unit = {
        "Jetpack Compose" to "Future"
@@ -14,12 +14,13 @@ data class gutinzera(
      val dailyLife: Unit = (0..end).reduce { acc, new ->
         study(new)
         coding(new)
+        project(new)
         sumUp(acc) + haveFun(new)
      }
 )
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Gutinz3ra&hide=contribs,prs&count_private=true&show_icons=true)
+![Gutinz3ra's github stats](https://github-readme-stats.vercel.app/api?username=Gutinz3ra&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/Gutinz3ra">
   <img src="https://img.shields.io/github/followers/Gutinz3ra">
