@@ -1,6 +1,6 @@
 Hi there, thanks for stopping by, this is **Gutinz3ra**.
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
 
 ```Kotlin
 data class gutinzera(
