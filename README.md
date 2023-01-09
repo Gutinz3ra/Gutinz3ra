@@ -6,7 +6,7 @@ Hi there, thanks for stopping by, this is **Gutinz3ra**.
 data class gutinzera(
      val pronouns: String = "he|him",
      val askMeAbout: List<String> = listOf(
-       "Kotlin", "Java" "Android Studio", "SDK"
+       "Kotlin", "Java" "Android Studio", "JDK"
      )
      val toLearn: () -> Unit = {
        "Jetpack Compose" to "Future"
