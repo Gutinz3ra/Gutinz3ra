@@ -4,7 +4,6 @@ Hi there, thanks for stopping by, this is **Gutinz3ra**.
 
 ```Kotlin
 data class gutinzera(
-     val pronouns: String = "he|him",
      val askMeAbout: List<String> = listOf(
        "Kotlin", "Java" "Android Studio", "JDK"
      )
